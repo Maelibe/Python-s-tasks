@@ -1,0 +1,14 @@
+Problem: Find solutions for given equations. 
+Write all whole solutions that solves this equation:
+a) (a*a + b*b) / (a*b + 1)
+
+Input: 
+The input contains two positive integer numbers in the first line: a and b  (1 ≤  a, b ≤ 100).
+Output:
+Print all pairs of numbers in following pattern (for n solutions)
+(a1, b1)
+(a2, b2)
+...
+(an, bn)
+
+
